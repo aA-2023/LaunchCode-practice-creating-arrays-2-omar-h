@@ -29,6 +29,8 @@ console.log(arrayOf7);
 
 let arrayOf5 = Array(5);
 for (let i = 0; i < arrayOf5.length ;i++) {
-    arrayOf5[i] = i*2;           // how do they at LaunchCode do it without a * sign??
+    arrayOf5[i] = i*10;           // how do they at LaunchCode do it without a * sign??
 }
 console.log(arrayOf5);
+
+// *10 not *2
